@@ -39,7 +39,7 @@ Passionate about web development and design, I create modern, interactive, and u
 📧 **Email**: *[Your Email]*  
 📷 **Instagram**: [@kilua_z0ldick](https://www.instagram.com/kilua_z0ldick)  
 🎥 **TikTok**: [@kilua_z0ldick](https://www.tiktok.com/@kilua_z0ldick)  
-💬 **LinkedIn**: *[Your LinkedIn]*  
+💬 **Twitter**: [@kilua_z0ldick](https://x.com/kilua_z0ldick)  
 
 ---
 
