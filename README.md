@@ -37,7 +37,7 @@ Passionate about web development and design, I create modern, interactive, and u
 
 💼 **Portfolio** (coming soon)  
 📧 **Email**: *[Your Email]*  
-📷 **Instagram**: [@zoldick_entreprise](https://www.instagram.com/)  
+📷 **Instagram**: [@kilua_z0ldick](https://www.instagram.com/kilua_z0ldick)  
 🎥 **TikTok**: [@zoldick_entreprise](https://www.tiktok.com/)  
 💬 **LinkedIn**: *[Your LinkedIn]*  
 
