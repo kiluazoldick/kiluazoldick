@@ -35,7 +35,7 @@ Passionate about web development and design, I create modern, interactive, and u
 
 ## 📢 Let's Connect  
 
-💼 **Portfolio** (coming soon)  
+💼 **Portfolio**: [Kilua.Zoldick](https://kilua-zoldick.vercel.app/)  
 📧 **Email**: contactkiluazoldick@gmail.com  
 📷 **Instagram**: [@kilua_z0ldick](https://www.instagram.com/kilua_z0ldick)  
 🎥 **TikTok**: [@kilua_z0ldick](https://www.tiktok.com/@kilua_z0ldick)  
