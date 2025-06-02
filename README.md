@@ -33,13 +33,13 @@ Passionate about web development and design, I create modern, interactive, and u
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 ![Nanga Doumer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiluazoldick&show_icons=true&theme=radical&hide_title=true&hide=contribs&hide_rank=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiluazoldick&layout=compact&theme=radical)
+
+![kiluazoldick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiluazoldick&theme=vue-dark&hide_border=true)
 
 ## 📢 Let's Connect  
 
